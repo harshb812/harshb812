@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harshb812
 - 👀 I’m interested in aerosapce
 - 🌱 I’m currently learning AER E 361
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (harshilb@iastate.edu)
 
 <!---
